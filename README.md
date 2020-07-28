@@ -1,4 +1,4 @@
-# Challenge
+# Teste FullStack
 
 Criar um projeto utilizando nodejs (Graphql com Apollo-Server + express e Mongoose) e reactjs
 
