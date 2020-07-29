@@ -1,6 +1,6 @@
 # Teste FullStack
 
-Criar um projeto utilizando Nodejs (Graphql com Apollo-Server + express e Mongoose) e Reactjs
+Criar um projeto utilizando Nodejs (Graphql com Apollo-Server e Mongoose) e Reactjs
 
 
 ## Projeto:
